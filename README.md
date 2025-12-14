@@ -15,8 +15,18 @@ Insights obtidos
 Com a análise, pudemos observar que:
 Quase nenhum deputado compareceu aos eventos de 2025;
 
+
 O máximo de eventos por deputado foi 2, o que indica uma participação muito baixa;
 
 O desvio padrão calculado ajuda a evidenciar a variação da participação em relação à média, reforçando o baixo engajamento.
 
 Este projeto mostra como é possível transformar dados públicos em insights claros e acionáveis utilizando ferramentas de análise de dados de forma prática e objetiva.
+
+
+
+
+
+
+<p align="center">
+  <img src="![Captura de tela 2025-12-13 231325" alt="Arquitetura do Projeto" width="800">
+</p>

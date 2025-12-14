@@ -26,7 +26,4 @@ Este projeto mostra como é possível transformar dados públicos em insights cl
 
 
 
-
-<p align="center">
-  <img src="![Captura de tela 2025-12-13 231325" alt="Arquitetura do Projeto" width="800">
-</p>
+![Captura de tela 2025-12-13 231325](https://github.com/user-attachments/assets/577e546a-2188-4294-815d-4d50ab2d542c)
